@@ -11,13 +11,13 @@ public class CountOFAGivenNumber {
 		System.out.println("Enter the number to find the count of number of integers");
 		int number=sc.nextInt();
 		int i=0;
-		int printvalue=number;
+		int actualnumber=number;
 		while(number!=0)
 		{	
 			number=number/10;
 			i++;
 		}
-		System.out.printf("Total number of digits in %d is %d",printvalue,i);
+		System.out.printf("Total number of digits in %d is %d",actualnumber,i);
 			
 	}
 }
