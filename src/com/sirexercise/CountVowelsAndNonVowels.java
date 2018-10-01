@@ -1,4 +1,4 @@
-package com.Interview;
+package com.sirexercise;
 
 import java.util.Scanner;
 
