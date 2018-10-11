@@ -1,0 +1,3 @@
+Rather than a beep
+Or a rude error message:
+These words: "File Not Found".

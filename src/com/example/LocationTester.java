@@ -1,0 +1,17 @@
+package com.example;
+
+public class LocationTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		double latitude=-15.5;
+		SimpleLocation lima=new SimpleLocation(latitude,-77.0);
+		latitude=-12.0;
+		System.out.println(lima.latitude);
+		
+	}
+
+}

@@ -1,0 +1,3 @@
+This is file 
+
+ If you could see this line once you open output file it means that this data is written through the java program
